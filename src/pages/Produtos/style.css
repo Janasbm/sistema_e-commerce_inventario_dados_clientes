@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap");
+
+body {
+  background-image: url("../../assets/fundoImg.png");
+  font-family: "Bitter", serif;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+
+#container .input {
+  margin-top: auto;
+  margin-bottom: 1rem;
+  width: 20rem;
+  height: 2rem;
+  border-radius: 0.4rem;
+  border: none;
+  padding: 0rem;
+  font: 700 14px "Bitter", serif;
+}
+
+.return {
+  text-align: center;
+  padding-top: 200px;
+  font: 800 18px "Bitter", serif;
+  color: #29235c;
+}
+
+.content {
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 5rem;
+}
+
+.title-cadastro {
+  text-align: center;
+  font: 700 14px "Bitter", serif;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.title-input {
+  text-align: center;
+  font: 700 14px "Bitter", serif;
+}
+
+button {
+  width: 20rem;
+  height: 2.2rem;
+  border-radius: 0.4rem;
+  background-color: #29235c;
+  color: #f8ad3e;
+  font: 700 14px "Bitter", serif;
+  border: none;
+  cursor: pointer;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #a2cddf;
+}

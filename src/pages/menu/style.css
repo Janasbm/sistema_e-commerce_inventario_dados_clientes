@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@700&display=swap');
+
+body {
+  background-image: url("../../assets/fundoImg.png");
+  font-family: 'Bitter', serif;
+}
+
+.Container {
+  padding-top: 250px;
+  margin: 50px;
+  margin-bottom: 20px;
+  align-items: center;
+  flex-direction: column;
+  padding-left: 10px;
+}
+
+button {
+  background: #29235c;
+  background-image: -webkit-linear-gradient(top, #29235c, #29235c);
+  background-image: -moz-linear-gradient(top, #29235c, #29235c);
+  background-image: -ms-linear-gradient(top, #29235c, #29235c);
+  background-image: -o-linear-gradient(top, #29235c, #29235c);
+  background-image: linear-gradient(to bottom, #29235c, #29235c);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Bitter', serif;
+  color: #f8ad32;
+  font-size: 18px;
+  padding: 6px 15px 11px 20px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #acddf2;
+  background-image: -webkit-linear-gradient(top, #acddf2, #acddf2);
+  background-image: -moz-linear-gradient(top, #acddf2, #acddf2);
+  background-image: -ms-linear-gradient(top, #acddf2, #acddf2);
+  background-image: -o-linear-gradient(top, #acddf2, #acddf2);
+  background-image: linear-gradient(to bottom, #acddf2, #acddf2);
+  text-decoration: none;
+}
