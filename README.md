@@ -23,11 +23,19 @@ O o objetivo desse projeto é colocar em prática aquilo que foi apredido durant
 
 http://localhost:3000/signup
 
+https://github.com/Janasbm/sistema_e-commerce_inventario_dados_clientes/issues/1#issue-952160117
+
 http://localhost:3000/menu
+
+https://github.com/Janasbm/sistema_e-commerce_inventario_dados_clientes/issues/1#issuecomment-886120772
 
 http://localhost:3000/clientes
 
+https://github.com/Janasbm/sistema_e-commerce_inventario_dados_clientes/issues/1#issuecomment-886120830
+
 http://localhost:3000/produtos
+
+https://github.com/Janasbm/sistema_e-commerce_inventario_dados_clientes/issues/1#issuecomment-886120797
 
 ## Available Scripts 
 
