@@ -1,8 +1,38 @@
-# Getting Started with Create React App
+# Sistema para cadastro de produtos e dados de clientes :clipboard:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O projeto foi desenvolvendo como critério avaliativo na primeira fase do programa educacional Hiringi Coders2 da VTEX com seus parceiros e com a Gama Academy.
+O o objetivo desse projeto é colocar em prática aquilo que foi apredido durante as aulas.
 
-## Available Scripts
+## O que essa aplicação é capaz de fazer?
+:heavy_check_mark:  Cadastra dados dos clientes. 
+:heavy_check_mark:  Cadastrar produtos no invetário de e-commerce.
+:heavy_check_mark:  Os campos dos produtos estão bem genericos pois existe a possibilidade de serem adaptados para qualquer e-commerce.
+:heavy_check_mark:  Os dados são armazedos no localstorage.
+
+## Linguagens, Dependencias e Libs Utilizadas :books:
+
+:heavy_check_mark: O projeto foi desenvolvido em Node/ReactJs 💙
+
+:heavy_check_mark: Bibliotecas utilizadas foram: React Dom, React Router Dom, React Icons.
+
+## O que precisa ser melhorado no projeto?
+
+:pushpin: Ainda falta algumas funcionalidades para serem implementadas ou refatorações em alguma parte do código.
+
+##Visualização das pages da aplicação
+
+http://localhost:3000/signup
+
+http://localhost:3000/menu
+
+http://localhost:3000/clientes
+
+http://localhost:3000/produtos
+
+## Available Scripts 
+
+[Create React App](https://github.com/facebook/create-react-app).
+
 
 In the project directory, you can run:
 
