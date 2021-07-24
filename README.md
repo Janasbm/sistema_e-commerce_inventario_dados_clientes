@@ -19,6 +19,9 @@ O o objetivo desse projeto é colocar em prática aquilo que foi apredido durant
 
 :pushpin: Ainda falta algumas funcionalidades para serem implementadas ou refatorações em alguma parte do código.
 
+## Deploy da aplicação no Heroku
+https://boxcadastro.herokuapp.com/signup
+
 ## Visualização das pages da aplicação
 
 http://localhost:3000/signup
